@@ -1,0 +1,36 @@
+[
+    {
+        "matriculeCollab": "X100100",
+        "consolides": [
+            {
+                "sumeaiId": 1,
+                "sumeauLibelle": "Sum1",
+                "prsence": 19,
+                "Taux": 30
+            },
+            {
+                "sumeaiId": 2,
+                "sumeauLibelle": "Sum2",
+                "prsence": 20,
+                "Taux": 45
+            }
+        ]
+    },
+    {
+        "matriculeCollab": "X200200",
+        "consolides": [
+            {
+                "sumeaiId": 3,
+                "sumeauLibelle": "Sum3",
+                "prsence": 20,
+                "Taux": 45
+            },
+            {
+                "sumeaiId": 4,
+                "sumeauLibelle": "Sum4",
+                "prsence": 20,
+                "Taux": 55
+            }
+        ]
+    }
+]
